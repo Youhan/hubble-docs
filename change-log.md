@@ -1,6 +1,6 @@
 # Change Log
 
-## v1.4.2
+## v1.6.0
 
 * Updates Page Builder plugin to v6.0.5
 * Compatible with WP 5.2
