@@ -8,6 +8,6 @@ If you are all new to WordPress, it is recommended to learn a little bit about i
 
 * **WordPress FAQ**: [http://codex.WordPress.org/FAQ\_New\_To\_WordPress](http://codex.WordPress.org/FAQ_New_To_WordPress)
 * **Full Installation Guide**: [http://codex.WordPress.org/First\_Steps\_With\_WordPress](http://codex.WordPress.org/First_Steps_With_WordPress)
-* **WordPress Video Tutorials**: [http://wp.tutsplus.com/sessions/wp101-basix-training/](http://wp.tutsplus.com/sessions/wp101-basix-training/)
+* **WordPress Video Tutorials**: [https://www.udemy.com/course/wordpress-101-course-beginners/](https://www.udemy.com/course/wordpress-101-course-beginners/)
 
 
