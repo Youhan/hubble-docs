@@ -24,9 +24,4 @@ Now you have updated your theme.
 
 Next step is to login to admin panel _Appearance &gt; About Hubble_ Theme and see if you need to update the **Hubble Theme Plugin.**
 
-## Benefit Automatic Update
-
-You can install and activate the **Envato Market Plugin.** Then you can go to the plugin page from the main menu at admin panel and configure it with your Envato account \( the account that you have bought the theme \) and you will be notified about updates as soon as they are published, then you can one click update your theme like free themes.
-
-Next step is to login to admin panel _Appearance &gt; About Hubble_ Theme and see if you need to update the **Hubble Theme Plugin.**
 
